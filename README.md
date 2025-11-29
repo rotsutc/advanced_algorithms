@@ -1,4 +1,4 @@
-# advanced_algorithms
+# Advanced algorithms
 ## Thành viên nhóm 1
 
 | MSSV    | Họ và Tên        |

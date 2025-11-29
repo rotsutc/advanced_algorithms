@@ -1,0 +1,2 @@
+streamlit run AVL_tree.py
+streamlit run AVL_tree_rev_1.py
